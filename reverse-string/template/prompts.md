@@ -1,1 +1,1 @@
-
+Actúa como un desarrollador web y ayúdame a generar una pagina web en Html igual a la imagen proporcionada, con lógica en javascript que invierta el orden de una cadena de texto que se ingresa en el caja de Texto al hacer click en el boton Reverse, conserva los colores y los iconos proporcionados en la imagen, el código html debe estar separado del código javascript
